@@ -35,3 +35,6 @@ This project aims to:
 <hr>
 
 # Screenshot
+![Screenshot (6)](https://github.com/user-attachments/assets/f0c792f5-4957-42a0-8fbc-863c9ccd2a07)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/e1a758b4-b193-447b-bc8a-e17e25c54552)
